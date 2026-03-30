@@ -29,8 +29,8 @@
 4. Buat sebuah folder dengan nama **NIM** anda dan masuk ke folder tersebut.
    ```sh
 
-   mkdir NIM_ANDA
-   cd NIM_ANDA
+   mkdir NIM
+   cd NIM
 
    ```
 
